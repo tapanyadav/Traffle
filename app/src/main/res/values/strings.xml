@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Traffle</string>
+    <string name="friends">Friends</string>//app<string name="add_friend">Add Friends</string>
+
+    <string name="chat">Chat</string>
+    <string name="wallet">Wallet</string>//app<string name="search">Search</string>
+
+    <string name="notifications">Notifications</string>
+    <string name="default_status">Hi there, I\'m using Traffle</string>//app
+    <string name="setup_name_hint">Your Name...</string>
+    <string name="setup_save_btn">Save Account Settings</string>
+    <string name="setup_name_hint_text">Your Name ...</string>
+    <string name="setup_btn_name_text">Save Account Settings</string>
+</resources>
